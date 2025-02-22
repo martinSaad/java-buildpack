@@ -6,7 +6,7 @@ group :development do
   gem 'redcarpet', '>= 3.5.1'
   gem 'rspec'
   gem 'rubocop', '>= 0.49.0'
-  gem 'rubocop-rspec', '>= 1.8.0'
+  gem 'rubocop-rspec', '>= 3.5.0'
   gem 'rubyzip', '>= 1.3.0'
   gem 'simplecov', '>= 0.13.0'
   gem 'tee'
