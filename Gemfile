@@ -10,6 +10,6 @@ group :development do
   gem 'rubyzip', '>= 1.3.0'
   gem 'simplecov', '>= 0.13.0'
   gem 'tee'
-  gem 'webmock', '>= 2.3.1'
+  gem 'webmock', '>= 3.22.0'
   gem 'yard', '>= 0.9.20'
 end
